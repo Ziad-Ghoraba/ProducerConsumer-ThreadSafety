@@ -1,0 +1,15 @@
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\bin\Debug\net8.0\ProducerConsumer_Application.exe
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\bin\Debug\net8.0\ProducerConsumer_Application.deps.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\bin\Debug\net8.0\ProducerConsumer_Application.runtimeconfig.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\bin\Debug\net8.0\ProducerConsumer_Application.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\bin\Debug\net8.0\ProducerConsumer_Application.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.AssemblyInfoInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.AssemblyInfo.cs
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.csproj.CoreCompileInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.sourcelink.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\refint\ProducerConsumer_Application.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ProducerConsumer_Application.genruntimeconfig.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Application\obj\Debug\net8.0\ref\ProducerConsumer_Application.dll

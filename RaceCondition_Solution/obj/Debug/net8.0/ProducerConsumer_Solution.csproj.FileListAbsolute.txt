@@ -1,0 +1,15 @@
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\bin\Debug\net8.0\ProducerConsumer_Solution.exe
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\bin\Debug\net8.0\ProducerConsumer_Solution.deps.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\bin\Debug\net8.0\ProducerConsumer_Solution.runtimeconfig.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\bin\Debug\net8.0\ProducerConsumer_Solution.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\bin\Debug\net8.0\ProducerConsumer_Solution.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.AssemblyInfoInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.AssemblyInfo.cs
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.csproj.CoreCompileInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.sourcelink.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\refint\ProducerConsumer_Solution.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ProducerConsumer_Solution.genruntimeconfig.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\ProducerConsumer_Solution\obj\Debug\net8.0\ref\ProducerConsumer_Solution.dll

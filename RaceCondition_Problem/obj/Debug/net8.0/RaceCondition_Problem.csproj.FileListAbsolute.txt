@@ -1,0 +1,15 @@
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\bin\Debug\net8.0\RaceCondition_Problem.exe
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\bin\Debug\net8.0\RaceCondition_Problem.deps.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\bin\Debug\net8.0\RaceCondition_Problem.runtimeconfig.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\bin\Debug\net8.0\RaceCondition_Problem.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\bin\Debug\net8.0\RaceCondition_Problem.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.AssemblyInfoInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.AssemblyInfo.cs
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.csproj.CoreCompileInputs.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.sourcelink.json
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\refint\RaceCondition_Problem.dll
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.pdb
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\RaceCondition_Problem.genruntimeconfig.cache
+D:\Programming\Operating System\Projects\ProducerConsumer-ThreadSafety\RaceCondition_Problem\obj\Debug\net8.0\ref\RaceCondition_Problem.dll
