@@ -75,4 +75,4 @@ Key concepts:
 
 ## Conclusion 🎉
 
-This project was a valuable part of my journey in understanding the intricacies of Operating Systems, **data inconsistency, and **thread synchronization in C#. By experimenting with different solutions to the **Producer-Consumer problem, I gained a deeper appreciation for the role of synchronization in concurrent programming.
+This project was a valuable part of my journey in understanding the intricacies of Operating Systems, **data inconsistency**, and **thread synchronization** in C#. By experimenting with different solutions to the **Producer-Consumer problem**, I gained a deeper appreciation for the role of synchronization in concurrent programming.
